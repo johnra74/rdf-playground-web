@@ -1032,6 +1032,9 @@ MIT
 ngx-bootstrap/positioning
 MIT
 
+ngx-bootstrap/tabs
+MIT
+
 ngx-bootstrap/typeahead
 MIT
 
